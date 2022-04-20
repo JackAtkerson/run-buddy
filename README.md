@@ -12,3 +12,5 @@ https://lernantino.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️ by Jack Atkerson
+
+# Run Buddy Inc.
